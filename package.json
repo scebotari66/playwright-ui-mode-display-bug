@@ -1,0 +1,11 @@
+{
+  "name": "playwright-ui-mode-display-bug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
